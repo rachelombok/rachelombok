@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+* 📷 Instagram: [rachelombok](https://instagram.com/rachelombok)
 -->
 ## About Me
 * 💻 i am a computer science student interested in augmented reality and game development
@@ -28,7 +29,6 @@ Here are some ideas to get you started:
 
 ## Let's get in contact!
 * 📧 Email: [rachel.ombok@nyu.edu](mailto:rachel.ombok@nyu.edu)
-* 📷 Instagram: [rachelombok](https://instagram.com/rachelombok)
 * 💼 LinkedIn: [rachelombok](https://linkedin.com/in/rachelombok)
 * 😎 Personal Website: [rachelombok.com](https://www.rachelombok.com/)
 
