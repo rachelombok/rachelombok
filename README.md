@@ -2,6 +2,7 @@
 
 i'm rachel (she/her)! 
 
+![image](RelievedUncomfortableBoilweevil-max-1mb.gif)
 <!--
 **rachelombok/rachelombok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
