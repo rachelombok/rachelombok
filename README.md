@@ -5,6 +5,7 @@ i'm rachel (she/her)!
 ![image](RelievedUncomfortableBoilweevil-max-1mb.gif)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachelombok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rachelombok&theme=gradient&show_icons=true)
 <!--
 **rachelombok/rachelombok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
