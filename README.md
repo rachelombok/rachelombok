@@ -1,5 +1,5 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<h1>testing</h1>
+
+<h1 align='center'>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 i'm rachel (she/her)! 
 
 ![image](RelievedUncomfortableBoilweevil-max-1mb.gif)
@@ -35,3 +35,11 @@ Here are some ideas to get you started:
 * 📧 Email: [rachel.ombok@nyu.edu](mailto:rachel.ombok@nyu.edu)
 * 💼 LinkedIn: [rachelombok](https://linkedin.com/in/rachelombok)
 * 😎 Personal Website: [rachelombok.com](https://www.rachelombok.com/)
+
+### Things I code with
+<p>
+<img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+</p>
