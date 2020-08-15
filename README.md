@@ -35,9 +35,10 @@ Here are some ideas to get you started:
 * 💼 LinkedIn: [rachelombok](https://linkedin.com/in/rachelombok)
 * 😎 Personal Website: [rachelombok.com](https://www.rachelombok.com/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachelombok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Tools I use
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachelombok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-430098?style=flat-square&logo=c%2B%2B&logoColor=white" />
