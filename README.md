@@ -5,8 +5,6 @@ i'm rachel **(she/her)**!
 <br/>
 ![image](RelievedUncomfortableBoilweevil-max-1mb.gif)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachelombok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **rachelombok/rachelombok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,6 +34,8 @@ Here are some ideas to get you started:
 * 📧 Email: [rachel.ombok@nyu.edu](mailto:rachel.ombok@nyu.edu)
 * 💼 LinkedIn: [rachelombok](https://linkedin.com/in/rachelombok)
 * 😎 Personal Website: [rachelombok.com](https://www.rachelombok.com/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachelombok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tools I use
 <p>
