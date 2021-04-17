@@ -37,8 +37,13 @@ Here are some ideas to get you started:
 
 ### Tools I use
 
+<!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachelombok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
+ <img align="left" src="https://github-readme-stats.vercel.app/api/?username=rachelombok&show_icons=true&title_color=ffbdde&icon_color=ffbdde&text_color=ffbdde&bg_color=151515&count_private=true&hide_title=true" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachelombok&show_icons=true&title_color=ffbdde&icon_color=ffbdde&text_color=fff&bg_color=151515&count_private=true&layout=compact" />
+
 <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
