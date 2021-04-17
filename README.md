@@ -40,7 +40,8 @@ Here are some ideas to get you started:
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachelombok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
- <img align="left" src="https://github-readme-stats.vercel.app/api/?username=rachelombok&show_icons=true&title_color=ffbdde&icon_color=ffbdde&text_color=ffbdde&bg_color=151515&count_private=true&hide_title=true" />
+ [Stats](https://github-readme-stats.vercel.app/api/?username=rachelombok&show_icons=true&title_color=ffbdde&icon_color=ffbdde&text_color=ffbdde&bg_color=151515&count_private=true&hide_title=true)
+[Score](https://github-readme-stats.vercel.app/api/?username=rachelombok&show_icons=true&title_color=ffbdde&icon_color=ffbdde&text_color=ffbdde&bg_color=151515&count_private=true&hide_title=true)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachelombok&show_icons=true&title_color=ffbdde&icon_color=ffbdde&text_color=fff&bg_color=151515&count_private=true&layout=compact" />
 
