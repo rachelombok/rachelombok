@@ -27,15 +27,13 @@ Here are some ideas to get you started:
 
 #### What I'm working on 🔭
 * 🖤💗 [The Pink Effect](https://github.com/rachelombok/BlackpinkDSProject), A data science project analyzing why/how BLACKPINK has amassed global popularity in the KPOP scope.
-* 📸 [JustShoot](https://github.com/rachelombok/JustShoot), a community platform for photo enthusiasts to find cool locations for photo shoots.
+* 📸 [JustShoot](https://github.com/rachelombok/photologapp), a community platform for photo enthusiasts to find cool locations for photo shoots.
 * 📈 [CovidForecasts](https://www.covidforecasts.com), the Covidforecast site aims to show various past data readings of coronavirus data, as well as future predictions from various sources. Different forecasts relating to the COVID-19 pandemic are displayed, and users can make their own predictions about the future trajectory of factors relating to the pandemic such as daily deaths, hospitalizations and cases.
 
 ## Let's get in contact!
-* 📧 Email: [rachel.ombok@nyu.edu](mailto:rachel.ombok@nyu.edu)
+* 📧 Email: [rachel.ombok@nyu.edu](mailto:rachel.ombok@gmail.com)
 * 💼 LinkedIn: [rachelombok](https://linkedin.com/in/rachelombok)
 * 😎 Personal Website: [rachelombok.com](https://www.rachelombok.com/)
-
-### Tools I use
 
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachelombok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
