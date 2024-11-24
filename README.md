@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 * 🛠 i love building products that merge technology and art, and solve unique problems
 
 #### What I'm working on 🔭
-* 🖤💗 [The Pink Effect](https://github.com/rachelombok/BlackpinkDSProject), A data science project analyzing why/how BLACKPINK has amassed global popularity in the KPOP scope.
 * 📸 [JustShoot](https://github.com/rachelombok/photologapp), a community platform for photo enthusiasts to find cool locations for photo shoots.
 * 📈 [CovidForecasts](https://www.covidforecasts.com), the Covidforecast site aims to show various past data readings of coronavirus data, as well as future predictions from various sources. Different forecasts relating to the COVID-19 pandemic are displayed, and users can make their own predictions about the future trajectory of factors relating to the pandemic such as daily deaths, hospitalizations and cases.
 
