@@ -22,12 +22,11 @@ Here are some ideas to get you started:
 
 -->
 ## About Me
-* 💻 i am a computer science student interested in augmented reality and game development
-* 🛠 i love building products that merge technology and art, and solve unique problems
+* 💻 i am a software engineer with 2 years of experience, mainly in React, Javascript, NodeJS, and Python.
 
 #### What I'm working on 🔭
 * 📸 [JustShoot](https://github.com/rachelombok/photologapp), a community platform for photo enthusiasts to find cool locations for photo shoots.
-* 📈 [CovidForecasts](https://www.covidforecasts.com), the Covidforecast site aims to show various past data readings of coronavirus data, as well as future predictions from various sources. Different forecasts relating to the COVID-19 pandemic are displayed, and users can make their own predictions about the future trajectory of factors relating to the pandemic such as daily deaths, hospitalizations and cases.
+* 📈 [CovidForecasts](https://github.com/GTIdeas2020REU/covid19-forecasting-market), the Covidforecast site aims to show various past data readings of coronavirus data, as well as future predictions from various sources. Different forecasts relating to the COVID-19 pandemic are displayed, and users can make their own predictions about the future trajectory of factors relating to the pandemic such as daily deaths, hospitalizations and cases.
 
 ## Let's get in contact!
 * 📧 Email: [rachel.ombok@nyu.edu](mailto:rachel.ombok@gmail.com)
