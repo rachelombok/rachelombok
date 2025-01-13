@@ -1,7 +1,7 @@
 
 <h1 align='center'>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-i'm rachel **(she/her)**!   
+i'm rachel!   
 <br/>
 ![image](RelievedUncomfortableBoilweevil-max-1mb.gif)
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 * 📈 [CovidForecasts](https://github.com/GTIdeas2020REU/covid19-forecasting-market), the Covidforecast site aims to show various past data readings of coronavirus data, as well as future predictions from various sources. Different forecasts relating to the COVID-19 pandemic are displayed, and users can make their own predictions about the future trajectory of factors relating to the pandemic such as daily deaths, hospitalizations and cases.
 
 ## Let's get in contact!
-* 📧 Email: [rachel.ombok@nyu.edu](mailto:rachel.ombok@gmail.com)
+* 📧 Email: [rachel.ombok@gmail.com](mailto:rachel.ombok@gmail.com)
 * 💼 LinkedIn: [rachelombok](https://linkedin.com/in/rachelombok)
 * 😎 Personal Website: [rachelombok.com](https://www.rachelombok.com/)
 
